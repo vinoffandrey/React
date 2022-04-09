@@ -4,7 +4,6 @@ import './index.css';
 import App from './App';
 import { Header } from './App';
 
-
 ReactDOM.render(
 	<StrictMode>
 		<App />
